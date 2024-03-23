@@ -1,0 +1,12 @@
+*.out
+*.test
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+*.env
+
+./secrets
