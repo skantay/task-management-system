@@ -9,4 +9,6 @@
 
 *.env
 
-./secrets
+config.yaml
+
+secrets/*
